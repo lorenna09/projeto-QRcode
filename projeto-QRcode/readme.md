@@ -25,13 +25,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img 
-    src="./src/images/banner.png" 
-    alt="Banner do Projeto"
-    width="800"
-  />
-</p>
+
 <p align="center">
   <img 
     src="https://img.freepik.com/vetores-premium/desenhos-animados-jovens_24911-32721.jpg" 
@@ -41,21 +35,6 @@
 </p>
 
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-      <p align="center">Expert</p>
-      <a href="https://github.com/felipeAguiarCode">
-        <img 
-          src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" 
-          alt="@felipeAguiarCode"
-        ><br>
-      </a>
-    
-
-   
   
 </thead>
 </table>
