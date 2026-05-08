@@ -32,6 +32,13 @@
     width="800"
   />
 </p>
+<p align="center">
+  <img 
+    src="https://img.freepik.com/vetores-premium/desenhos-animados-jovens_24911-32721.jpg" 
+    alt="Imagem Projeto"
+    width="350"
+  />
+</p>
 
 
 <!--  -->
