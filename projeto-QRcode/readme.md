@@ -33,13 +33,6 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    src="./src/images/qrcode-demo.png" 
-    alt="Demonstração QR Code"
-    width="400"
-  />
-</p>
 
 <!--  -->
 <table align="center">
